@@ -22,4 +22,10 @@ Rate your comfort and choose the matching activity
 
 - Which resource did you choose to use?
 
+The resource I chose to use was the SQL Zoo one.
+
 - What are three things you learned during this lab?
+
+One thing I learned was more about nobel, COUNT, SUM, JOIN, NULL, etc.
+Another thing I learned was more on "functions", such as POWER(), ROUND(), LEFT(), etc.
+One final thing I learned was using nested SELECT.
